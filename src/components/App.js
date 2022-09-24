@@ -8,7 +8,6 @@ import "../styles/Layout.css";
 
 function App() {
   const [cart, updateCart] = useState([]);
-
   return (
     <div>
       <Banner>
